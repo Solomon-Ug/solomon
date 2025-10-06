@@ -13,7 +13,8 @@ body{
     margin-left: auto;
     float: left;
     margin: 5px;
-    height: 500px;
+    height: 10%;
+    width: 10%;
 }
 footer{
     clear: both;
