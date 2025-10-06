@@ -11,6 +11,10 @@ body{
 }
 .img{
     margin-left: auto;
-    flex: left;
+    float: left;
     margin: 5px;
+}
+footer{
+    clear: both;
+    margin-left: 500px;
 }
